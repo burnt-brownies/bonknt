@@ -1,0 +1,15 @@
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE temp files
+*.tmp
+.DS_Store        # mac thing
+Thumbs.db        # windows thing
+
+# IDE folders
+.vscode/
+.idea/
